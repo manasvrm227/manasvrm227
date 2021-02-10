@@ -1,4 +1,5 @@
-### Hi, I'm in ❤️ with __Java__.  
+### Hi, I'm in ❤️ with __Java__.
+### Currently I'm working on ##SparkJava.
 
 <!--
 **manasvrm227/manasvrm227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Connect with me on social platforms.
+Connect with me on social platform.
 <br>
 <a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
-<a href='https://twitter.com/ManasVerma7'> Twitter </a>
