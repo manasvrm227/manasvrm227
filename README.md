@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Connect with me on social platform.
+### Connect with me on social platform.
 <br>
-<a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
+### <a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
