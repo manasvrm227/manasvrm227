@@ -15,20 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2></h2><a href='https://twitter.com/ManasVerma7'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/ManasVerma7'>
-    Manas Verma
-</a>
-
-
-
-<h2></h2><a href='https://twitter.com/ManasVerma7'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
-</a>
-
 <a href='https://twitter.com/ManasVerma7'>
     Manas Verma
 </a>
