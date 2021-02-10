@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
+<br>
 <a href='https://twitter.com/ManasVerma7'> Twitter </a>
