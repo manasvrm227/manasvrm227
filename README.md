@@ -1,4 +1,4 @@
-### Hi reader, I'm **Java Enthusiast**. 
+### Hi, I'm __Java Enthusiast__. 
 
 <!--
 **manasvrm227/manasvrm227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
