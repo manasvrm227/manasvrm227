@@ -1,5 +1,5 @@
 ### Hi, I'm in ❤️ with __Java__.
-### Currently I'm working on ##SparkJava.
+### Currently I'm working on SparkJava framework for developing RESTFul services.
 
 <!--
 **manasvrm227/manasvrm227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
