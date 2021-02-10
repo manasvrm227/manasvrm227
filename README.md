@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Connect with me on social platforms.
+<br>
 <a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
 <a href='https://twitter.com/ManasVerma7'> Twitter </a>
