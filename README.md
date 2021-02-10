@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 Connect with me on social platforms.
 <a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
-<br>
 <a href='https://twitter.com/ManasVerma7'> Twitter </a>
