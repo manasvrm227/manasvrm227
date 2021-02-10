@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href='https://twitter.com/ManasVerma7'>
-    Manas Verma
-</a>
+<a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
+<a href='https://twitter.com/ManasVerma7'> Twitter </a>
