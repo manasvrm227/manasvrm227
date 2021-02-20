@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile Pic] (manasvrm227/images/ManasVerma.jpg)
+<!-- ![Profile Pic] (manasvrm227/images/ManasVerma.jpg) -->
+<img src="/images/ManasVerma.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ### Connect with me on social platform.
 <br>
 <a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
