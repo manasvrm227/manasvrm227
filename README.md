@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![Profile Pic] (manasvrm227/images/ManasVerma.jpg) -->
-<img src="/images/ManasVerma.jpg"
+<img src="/images/LinkedIn Banner.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 ### Connect with me on social platform.
