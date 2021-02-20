@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-! [Profile Pic] (manasvrm227/images/ManasVerma.jpg)
+![Profile Pic] (manasvrm227/images/ManasVerma.jpg)
 ### Connect with me on social platform.
 <br>
 <a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
