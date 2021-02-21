@@ -1,3 +1,9 @@
+
+<!-- ![Profile Pic] (manasvrm227/images/ManasVerma.jpg) -->
+<img src="/images/LinkedIn Banner.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<br>     
 ### Hi, I'm in ❤️ with __Java__.
 ### Currently I'm working on SparkJava framework for developing RESTFul services.
 
@@ -15,10 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![Profile Pic] (manasvrm227/images/ManasVerma.jpg) -->
-<img src="/images/LinkedIn Banner.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 ### Connect with me on social platform.
 <br>
 <a href='https://www.linkedin.com/in/manasverma2'> LinkedIn </a>
